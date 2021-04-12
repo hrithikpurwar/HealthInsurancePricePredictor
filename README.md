@@ -1,3 +1,3 @@
 # HealthInsurancePricePredictor
 
-Deployed App Link :- https://github.com/hrithikpurwar/HealthInsurancePricePredictor
+Deployed App Link :- https://insurancepriceiet.herokuapp.com/
